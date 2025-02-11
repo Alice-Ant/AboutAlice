@@ -6,9 +6,9 @@
 ### About Me
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎓 I have a bachelor in Iternational Relations and a master in International Cooperation on Human Rights and Intercultural Heritage.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;💻 Last year I decided to enroll to another master program in [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) .  
+&nbsp;&nbsp;&nbsp;&nbsp;💻 Last year I decided to enroll to another master program in [Digital Humanities](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) .  
 &nbsp;&nbsp;&nbsp;&nbsp;🎴 I am passionate about modern technology, gamedesign and history, so I am trying to figure out how to intertwine them!  
-&nbsp;&nbsp;&nbsp;&nbsp;🎮 I have studied gamedesign and academic art during the pandemic and can draw a decent oil painting or write a intricate quest.
+&nbsp;&nbsp;&nbsp;&nbsp;🎮 I have studied gamedesign and academic art during the pandemic and can draw a decent oil painting or write an intricate quest.
 
 <br>
 
