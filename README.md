@@ -47,7 +47,6 @@
 
 </details>
 
-
 ---
    <h3><a href="https://github.com/Alice-Ant/DHDK.Projects">Here are some of the projects I contributed to or realised during my studies</a></h3>
 
@@ -58,4 +57,4 @@
 
 #
 
-<p align="center"> ✨✨✨ </p>
+<p align="center">  </p>
