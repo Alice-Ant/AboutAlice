@@ -48,8 +48,8 @@
 
 
 ---
-   <h3>[Here are some of the projects I contributed to or realised during my studies](https://github.com/Alice-Ant/DHDK.Projects)</h3>
-    
+   <h3><a href="https://github.com/Alice-Ant/DHDK.Projects">Here are some of the projects I contributed to or realised during my studies</a></h3>
+
 ---
 <br>
 
