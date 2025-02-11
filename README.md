@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!</h1>
 <h1 align="center">Get to know Alice in the PastaLand!🍝</h1>
 
-<p align="center">Hi, I'm Alice (or Ali<b>SA</b> according to the russian bueroucracy) and right now I am studying Digital Humanities at the university of Bologna📚<p>
+<p align="center">Hi, I'm Alice (or ✨Ali<b>SA</b>✨ according to the russian bueroucracy) and right now I am studying Digital Humanities at the university of Bologna📚<p>
 
 ### About Me
 
