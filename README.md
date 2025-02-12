@@ -14,13 +14,13 @@
 
 ## Programming Languages & Skills
 
-<h3>⚙️ Toolkit</h3>
+<!--<h3>⚙️ Toolkit</h3>
   <br><br>
   
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-Ant&layout=donut-vertical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-Ant&layout=donut-vertical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <br>
-<h3>🛠️ Skills</h3>
+<h3>🛠️</h3>
 <p align="left">
   <strong>Python | </strong>
   <strong>Pandas | </strong>
